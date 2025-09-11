@@ -15,7 +15,7 @@
 <h1>Pengju Liu's VIS Site</h1>
 <img
     width="200px"
-    src="https://en.wikipedia.org/wiki/Minnesota_Golden_Gophers#/media/File:Minnesota_Golden_Gophers_logo.svg"
+    src="https://picsum.photos/200"
 />
 <div>
     You can click up to
